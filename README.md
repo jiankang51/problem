@@ -1,8 +1,8 @@
 # problem
 开发中遇到的一些问题
 
-#git 的使用
-###下载 git clone https://github.com/jiankang51/problem.git
+# git 的使用
+### 下载 git clone https://github.com/jiankang51/problem.git
     
     github 网页找到工程，复制url 后面加 .git 即可
     设置用户名
